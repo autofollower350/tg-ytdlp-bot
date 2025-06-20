@@ -7,11 +7,11 @@ class Config(object):
     # Add all admin id's as a list - Required (lst[int])
     ADMIN = [0000000000]
     # Add your telegram API ID - Required (int)
-    API_ID = 0000000
+    API_ID = 28590286
     # Add your Telegram API HASH - Required (str)
-    API_HASH = ""
+    API_HASH = "6a68cc6b41219dc57b7a52914032f92f"
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7412939071:AAFk6_MJziu22UnZOv9crH-HcwLDqzQ1SVg"
     # Add telegram Log channel Id - Required (int)
     LOGS_ID = -0000000000000
     # Add main channel to subscribe - Required (int)
