@@ -5,7 +5,7 @@ class Config(object):
     # A name for users - Required (str)
     BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = [6117445553]
     # Add your telegram API ID - Required (int)
     API_ID = 28590286
     # Add your Telegram API HASH - Required (str)
@@ -75,18 +75,3 @@ __Developed by__ @upekshaip
 __Contributor___ @IIlIlIlIIIlllIIlIIlIllIIllIlIIIl
 """
 
-# Firebase initialization
-    # your firebase DB path
-    BOT_DB_PATH = f"bot/{BOT_NAME}/"
-    # Firebase Config - Required (str for all)
-    FIREBASE_USER = "YOUR@E.MAIL"
-    FIREBASE_PASSWORD = "YOUR_PASSWORD"
-    FIREBASE_CONF = {
-        'apiKey': "",
-        'authDomain': "",
-        'projectId': "",
-        'storageBucket': "",
-        'messagingSenderId': "",
-        'appId': "",
-        'databaseURL': ""
-    }
